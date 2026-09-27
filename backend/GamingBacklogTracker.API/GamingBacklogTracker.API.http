@@ -1,0 +1,6 @@
+@GamingBacklogTracker.API_HostAddress = http://localhost:5258
+
+GET {{GamingBacklogTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

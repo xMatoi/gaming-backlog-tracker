@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GamingBacklogTracker.API/GamingBacklogTracker.API.csproj" />
+  <Project Path="GamingBacklogTracker.Application/GamingBacklogTracker.Application.csproj" />
+  <Project Path="GamingBacklogTracker.Domain/GamingBacklogTracker.Domain.csproj" />
+  <Project Path="GamingBacklogTracker.Infrastructure/GamingBacklogTracker.Infrastructure.csproj" />
+</Solution>
