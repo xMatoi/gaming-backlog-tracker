@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamingBacklogTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e178b4e6840a347ef0c0c4ffe23374813c073f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fcbdabcb554cf45fbd29b04d9bcf5a1d41faef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamingBacklogTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamingBacklogTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
