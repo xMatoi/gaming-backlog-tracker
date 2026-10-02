@@ -19,4 +19,11 @@ public class GamingRepository : IGamingRepository {
     public async Task<IEnumerable<GamingGlobal>> GetAllAsync() {
         return await _context.JuegosGlobales.ToListAsync(); // Consulta real a BD (Magia SQL)
     }
+
+    public async Task<GamingGlobal> AddAsync(GamingGlobal habito) {
+        await _context.JuegosGlobales.AddAsync(habito);
+         await _context.SaveChangesAsync(); 
+        
+        return habito;
+}
 }
