@@ -1,6 +1,0 @@
-@BacklogTracker.API_HostAddress = http://localhost:5029
-
-GET {{BacklogTracker.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
